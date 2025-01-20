@@ -1,5 +1,5 @@
 #!/bin/bash
-# yml 传入的路由器型号 PROFILE
+# yml 传入的路由器型号 tr3000
 echo "Building for profile: $PROFILE"
 echo "Include Docker: $INCLUDE_DOCKER"
 # yml 传入的固件大小 ROOTFS_PARTSIZE
